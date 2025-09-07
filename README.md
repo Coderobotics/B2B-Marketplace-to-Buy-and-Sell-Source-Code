@@ -37,3 +37,12 @@ To sell your code, sign up or log in with Gmail and reach out to us via the Cont
 Learn how to use the Coderobotics platform for buying and selling source code. 
 
 To explore all our products in one place, <a href="https://www.coderobotics.com/view-all-products">click here>></a>
+
+If you're looking for readymade php scripts
+https://www.phpscriptsonline.com/products
+
+If you're looking for readymade ASP.Net, C# software source code
+https://www.aspscriptsonline.com/products
+
+If you're looking for digital marketing services, insights, AI-powered strategies.
+https://www.coderobotics.com/blog
